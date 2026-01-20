@@ -22,10 +22,10 @@
    </fieldset>
    <fieldest>
        <legend>SELECT STATUS</legend>
-       <p> <input type="checkbox" />My Fiance </p>
-       <p> <input type="checkbox" />My Husband </p>
-       <p> <input type="checkbox" />My Boyfriend </p>
-       <p> <input type="checkbox" />My Everything </p>
+       <p> <input type="checkbox" />Her Fiance </p>
+       <p> <input type="checkbox" />Her Husband </p>
+       <p> <input type="checkbox" />Her Boyfriend </p>
+       <p> <input type="checkbox" />Her Everything </p>
    </fieldest>
     <p>Your Birthday:<input type="date" /> </p>
     <p>Have you made your wishes and prayed,babe? i'm sure you have done both,so now it's time for you to read all this,okay!!!!
