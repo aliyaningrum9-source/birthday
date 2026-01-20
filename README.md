@@ -14,6 +14,20 @@
     <p>Hello this is just a simple greeting from your lover!<3</p>
     <br />
     <img src="gambar1b.jpg" width="300px" height="250px"/>
+   <fieldset>
+       <legend>MY IDENTITY</legend>
+       <p>Name: <input type="text" /> </p>
+       <p>Address: <input type="text" /> </p>
+       <p>Favourite Person: <input type="text" /> </p>
+   </fieldset>
+   <fieldest>
+       <legend>SELECT STATUS</legend>
+       <p> <input type="checkbox" />My Fiance </p>
+       <p> <input type="checkbox" />My Husband </p>
+       <p> <input type="checkbox" />My Boyfriend </p>
+       <p> <input type="checkbox" />My Everything </p>
+   </fieldest>
+    <p>Your Birthday:<input type="date" /> </p>
     <p>Have you made your wishes and prayed,babe? i'm sure you have done both,so now it's time for you to read all this,okay!!!!
        <br />
     Let's start with all the wonderful things about your birthday,which falls right at the beginning of March,right? 
@@ -31,5 +45,61 @@
     </p>
     <br />
     <video src="video1.mp4" controls width="450px" height="400px"></video>
+    <br />
+    <p>
+        May good things always accompany you. Keep growing, moving forward and achieving your dreams. I will watch you progress from afar, witnessing your every struggle and achievement.
+        Even though I may not always be by your side, I will always support you with my prayers and best wishes.
+        When you feel tired or uncertain, remember that there is someone who always believes in you, who is always proud of every step you take, no matter how big or small.
+        I will always be the one most proud of every step you take, every success, and even every failure. Because for me, seeing you strive and grow is a joy in itself.
+        Keep moving forward; I will always support you, even from afar.
+    </p>
+    <br />
+    <br />
+    <table border="1" cellspacing="1" cellpadding="10" align="center">
+        <caption>Special data in your life</caption>
+        <tr>
+            <th>Years</th>
+            <th>activities</th>
+        </tr>
+        <tr>
+            <td>2026</td>
+            <td>meet me in indonesia and propose to me </td>
+        </tr>
+        <tr>
+            <td>2027</td>
+            <td>come to india </td>
+        </tr>
+        <tr>
+            <td>2028</td>
+            <td>Come to Indonesia and the engagement ceremony in India</td>
+        </tr>
+        <tr>
+            <td>2029</td>
+            <td>our wedding day</td>
+        </tr>
+    </table>
+    <br />
+    <p>With Taylor Swift's song echoing in my ears, I realised that you were the person I had been hoping for in 
+    my life all along, even though I didn't realise it when I first met you.</p>
+    <p>At that moment, I began to wonder whether this was my last love 
+    or just someone who would pass through my life briefly. I admired you 
+    because it seemed as if all goodness was gathered in your soul and body.</p>
+    <p>And I was moved by a lyric that goes: Please don't 
+    be in love with someone else, please don't have someone waiting on you.</p>
+    <p>A lyric that I interpreted to mean that you should not love and wait for another woman 
+    besides me while we are in a long-distance relationship, because I only want you to be mine forever and for 
+    me to be the only one you wait for and love for the rest of your life.</p>
+    <p>I hope that love will guide you to good things and not make your life complicated.</p>
+    <video src="video3.mp4" controls width="600px" height="250px"></video>
+    <br />
+    <p>Happy birthday, my love. May you have a long life, always be healthy, and may everything you do be made easy. I 
+    will always be there for you forever. Wishing you all the best, my love.</p>
+    <p>Happy Birthday My love</p>
+    <p>Happy Birthday My baby</p>
+    <p>Happy Birthday My Fiance</p>
+    <p>Happy Birthday My Hubby</p>
+    <p>Happy Birthday Mr Marshual Benny</p>
+    <p>Liya love you so much!!!</p>
+    <p>I LOVE YOU SO SO SO SO MUCH MORE THAN ANYTHING AND ANYONE</p>
+    <video src="video2.mp4" controls width="600px" height="250px"></video>
 </body>
-
